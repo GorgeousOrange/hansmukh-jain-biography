@@ -1,0 +1,3 @@
+Add your authorised photographs and scans to this folder.
+Expected filenames: portrait-main.jpg, gallery-01.jpg, award-01.jpg, book-01.jpg
+See README.md for instructions.
